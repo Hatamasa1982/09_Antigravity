@@ -1,6 +1,6 @@
 ---
 trigger: manual
-globs: 05.Recipe/**/*
+globs: 05_make-dinner/**/*
 ---
 
 # 1. 家族構成と分量の基準
